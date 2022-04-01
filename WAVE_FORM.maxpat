@@ -2318,7 +2318,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2500.633357216739569, 1274.757645486037745, 83.0, 22.0 ],
-					"text" : "loadmess 120"
+					"text" : "loadmess 125"
 				}
 
 			}
@@ -3140,7 +3140,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 749.400000035762787, 2411.106689000000188, 278.0, 36.0 ],
+					"patching_rect" : [ 749.400000035762787, 2003.106689000000188, 278.0, 36.0 ],
 					"text" : "Add up the left channel signals and right channel signals respectively"
 				}
 
@@ -3361,7 +3361,7 @@
 					"maxclass" : "ezdac~",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 641.5, 2479.106689000000188, 77.0, 77.0 ]
+					"patching_rect" : [ 641.5, 2071.106689000000188, 77.0, 77.0 ]
 				}
 
 			}
@@ -3372,7 +3372,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 699.5, 2418.106689000000188, 29.5, 22.0 ],
+					"patching_rect" : [ 699.5, 2010.106689000000188, 29.5, 22.0 ],
 					"text" : "+~"
 				}
 
@@ -3396,7 +3396,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 641.5, 2418.106689000000188, 30.0, 22.0 ],
+					"patching_rect" : [ 641.5, 2010.106689000000188, 30.0, 22.0 ],
 					"text" : "+~"
 				}
 
@@ -3676,7 +3676,7 @@
 					"outlettype" : [ "list", "float", "float", "float", "float", "list", "int" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 443.0, 444.570008197009884, 296.199975798702212, 169.200000703334808 ],
-					"setfilter" : [ 0, 8, 1, 0, 0, 250.000167846679688, 0.630214929580688, 1.759278774261475, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
+					"setfilter" : [ 0, 8, 1, 0, 0, 290.27685546875, 0.630214929580688, 1.759278774261475, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ]
 				}
 
 			}
