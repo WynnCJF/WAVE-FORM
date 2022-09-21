@@ -16,7 +16,7 @@ WAVE / FORM is a generative audiovisual artwork created with Max 8 and Processin
 
 <img src="visual.png" alt="png" style="zoom:30%;" />
 
-
+**Video demo:** https://vimeo.com/752048616
 
 **Max Interface:**
 
